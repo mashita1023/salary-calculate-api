@@ -1,5 +1,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/salary-calculate-api/conf/application.conf,/myapp/salary-calculate-api/target/scala-2.13/classes/application.conf)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/salary-calculate-api/conf/logback.xml,/myapp/salary-calculate-api/target/scala-2.13/classes/logback.xml)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/salary-calculate-api/conf/messages,/myapp/salary-calculate-api/target/scala-2.13/classes/messages)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/salary-calculate-api/conf/routes,/myapp/salary-calculate-api/target/scala-2.13/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/conf/application.conf,/myapp/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/conf/logback.xml,/myapp/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/conf/messages,/myapp/target/scala-2.13/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/myapp/conf/routes,/myapp/target/scala-2.13/classes/routes)[0m
