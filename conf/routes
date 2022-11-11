@@ -1,2 +1,1 @@
-GET     /hello                  controllers.HelloController.hello
-POST    /hello                  controllers.HelloController.helloJson
+->         /v1/posts               v1.post.PostRouter
