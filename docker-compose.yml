@@ -18,7 +18,7 @@ services:
       - ./:/myapp
   db:
     container_name: salary-db
-    image: mariadb:10.9.4
+    image: mariadb:11.6.2
     volumes:
       - ./mariadb/initdb.d:/docker-entrypoint-initdb.d
       - ./mariadb/db:/var/lib/mysql
